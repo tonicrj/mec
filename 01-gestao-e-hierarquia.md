@@ -4,8 +4,8 @@
 
 A estrutura principal da Bennys é composta por:
 
-* **Antonio Carrijo (Toni)** - Dono
-* **Robson Carrijo (Taker)** - Dono&#x20;
+* **Antonio Carrijo (Toni)** - Proprietário
+* **Robson Carrijo (Taker)** - Sócio-Proprietário
 * **Pablito** - Gerente da Mecânica
 * **Laura** - Gerente
 * **Renatinha** - Gerente
