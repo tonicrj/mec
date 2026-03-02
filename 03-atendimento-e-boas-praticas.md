@@ -6,6 +6,14 @@ Utilize **SEMPRE** a calculadora para facilitar o trabalho.
 
 {% embed url="https://tonicrj.github.io/calculadora-mecanica/" %}
 
+### Ordem de Atendimento em Fila
+
+Os mecânicos que estiverem em serviço deverão ter uma ordem de atendimento baseado em fila, para que ninguém passe na frente do outro.
+
+Após um atendimento, volta para o fim da fila até chegar sua vez novamente.&#x20;
+
+Caso o mecânico nao queira atender algum cliente, seja por qual motivo, ele vai para o fim da fila para nao atrapalhar a ordem .
+
 ### 1. Cada item aplicado sai da conta
 
 Cada item instalado gera custo imediatamente na sua conta então tenha certeza quando aplicar.

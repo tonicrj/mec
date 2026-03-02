@@ -4,7 +4,7 @@
 
 O uniforme da Bennys deve ser seguido conforme o padrão abaixo.
 
-> **Não usar máscara.**
+> <mark style="color:$danger;">**NÃO USAR MÁSCARA**</mark>
 
 ## Uniforme feminino
 
@@ -39,4 +39,4 @@ O uniforme da Bennys deve ser seguido conforme o padrão abaixo.
 
 ## Observação importante
 
-Padronização de uniforme transmite organização, profissionalismo e identidade visual da Bennys.
+O uniforme serve para organização e para identificarmos quem está em serviço.
