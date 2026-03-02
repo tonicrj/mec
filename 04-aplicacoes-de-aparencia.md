@@ -1,87 +1,54 @@
-# 3. Atendimento e Boas Práticas
+# 4. Aplicações de Aparência
 
-## Regras gerais
+## Dicas e cuidados
 
-### 1. Cada item aplicado sai da conta
+### 1. Mostrar estética antes de aplicar
 
-Cada item instalado gera custo imediatamente na conta da mecânica.
-
-#### Se estiver sem dinheiro em conta
-
-Caso esteja sem dinheiro, confirme o preço com o cliente e peça, se possível, um adiantamento antes de aplicar.
-
-### 2. Confirmar antes de aplicar
-
-Sempre confirme com o cliente o valor de **cada item** antes da aplicação.
-
-Depois de aplicado, **não tem volta** e o item será cobrado.
-
-### 3. Como responder ao cliente sobre "full tuning"
-
-Quando o cliente perguntar:
-
-> "Quanto sai um full tuning?"
-
-O procedimento correto é:
-
-1. passar o valor de cada item separadamente;
-2. ir somando os valores;
-3. informar o total ao final.
-
-#### O que confirmar nesse momento
-
-Já aproveite para perguntar se o full será de:
-
-- motor;
-- freio;
-- transmissão;
-- suspensão;
-- blindagem;
-- turbo;
-- nitro;
-- 2 Step.
-
-#### Ordem de valor dos itens
-
-Quando o cliente perguntar o que é mais caro ou mais barato:
-
-- **Blindagem** costuma ser o item mais caro;
-- **Turbo** vem logo depois;
-- **Motor, Freio, Transmissão e Suspensão** costumam ser mais acessíveis.
-
-#### Quando o cliente perguntar valor sem estar com o carro
-
-Se o cliente perguntar o preço de um item sem estar com o veículo na mecânica, informe que:
-
-- **não é possível saber o valor exato sem o carro**;
-- o preço varia de carro para carro, de acordo com o valor do veículo.
-
-### 4. Nem todos os carros possuem todos os itens
-
-Nem todo carro terá todas as opções disponíveis.
+É permitido navegar pelos itens para mostrar ao cliente como ficará a estética do carro.
 
 Exemplos:
 
-- alguns terão poucas opções de lataria;
-- alguns não terão pintura interna;
-- outros terão limitações em categorias específicas.
+- para-choques;
+- saias;
+- detalhes visuais em geral.
 
-### 5. Carro travado no chão
+Se o cliente **não gostar**, basta voltar no **BACKSPACE**.
 
-Alguns itens podem travar o carro no chão.
+Para aplicar de fato, use **ENTER**.
 
-Quando isso acontecer, use o **elevador** para destravar.
+### 2. Atenção máxima na categoria Pintura
 
-### 6. Remoção de itens
+O maior cuidado deve ser dentro da categoria **Pintura**.
 
-- Itens de **Performance** e **Lataria** não possuem custo para remover.
-- Apenas as **trocas de pintura** possuem custo.
+Ao navegar pelas cores, se o cliente **não gostar** e quiser voltar:
 
-## Padrão de atendimento recomendado
+- use **ESC** para sair sem aplicar;
+- **não use BACKSPACE**, pois isso pode aplicar a pintura.
 
-Durante o atendimento:
+### 2.1 Primária e Secundária Camaleão
 
-- seja claro ao passar os valores;
-- confirme sempre antes de apertar ENTER em qualquer aplicação;
-- evite pressa em pintura e personalização;
-- mantenha o cliente informado durante todo o processo.
+Dentro das opções de **Primária** e **Secundária Camaleão**, já é possível navegar para o lado e mostrar as variações ao cliente.
+
+### 2.2 Primária e Secundária Especial
+
+Em **Primária** e **Secundária Especial**, é possível entrar duas vezes até chegar na seleção de cores, onde dá para navegar pelo **RGB** e mostrar as opções.
+
+### 2.3 Cores padrão
+
+Em **Primária** e **Secundária** comuns, as cores já são pré-definidas. Basta clicar para mostrar ao cliente.
+
+### 2.4 Regra geral em pintura
+
+Em qualquer opção de pintura, caso o cliente não goste da cor ou desista:
+
+- volte sempre no **ESC**.
+
+### 2.5 Remover perolado
+
+Para retirar o **Perolado**, deve ser aplicado **Perolado Preto**.
+
+## Resumo prático
+
+- **BACKSPACE**: voltar em itens visuais comuns sem aplicar;
+- **ENTER**: aplicar o item;
+- **ESC**: sair da pintura sem aplicar.

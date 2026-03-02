@@ -1,54 +1,54 @@
-# 4. Aplicações de Aparência
+# 5. Aplicações de Performance
 
-## Dicas e cuidados
+## Regras gerais da performance
 
-### 1. Mostrar estética antes de aplicar
+### 1. Sempre perguntar o nível desejado
 
-É permitido navegar pelos itens para mostrar ao cliente como ficará a estética do carro.
+Todos os itens de performance possuem níveis, como:
+
+- Nível 1;
+- Nível 2;
+- Nível 3;
+- e assim por diante.
+
+Por isso, sempre confirme com o cliente se ele quer o item no **full**.
 
 Exemplos:
 
-- para-choques;
-- saias;
-- detalhes visuais em geral.
+- Motor Full?
+- Freio Full?
+- Transmissão Full?
 
-Se o cliente **não gostar**, basta voltar no **BACKSPACE**.
+### 2. Suspensão exige confirmação extra
 
-Para aplicar de fato, use **ENTER**.
+Suspensão é um item que varia muito de gosto para gosto.
 
-### 2. Atenção máxima na categoria Pintura
+A suspensão full mais baixa muda conforme o carro, e em alguns veículos pode pegar em calçadas ou dificultar o uso.
 
-O maior cuidado deve ser dentro da categoria **Pintura**.
+Por isso, sempre pergunte:
 
-Ao navegar pelas cores, se o cliente **não gostar** e quiser voltar:
+- se o cliente quer a mais baixa possível; ou
+- se prefere um nível antes do full.
 
-- use **ESC** para sair sem aplicar;
-- **não use BACKSPACE**, pois isso pode aplicar a pintura.
+### 3. Nome correto do item "pow pow pow"
 
-### 2.1 Primária e Secundária Camaleão
+Quando o cliente pedir o item que faz os barulhos de escape, o nome correto é:
 
-Dentro das opções de **Primária** e **Secundária Camaleão**, já é possível navegar para o lado e mostrar as variações ao cliente.
+- **2 Step**
 
-### 2.2 Primária e Secundária Especial
+Esse item fica dentro da opção **Preparação**.
 
-Em **Primária** e **Secundária Especial**, é possível entrar duas vezes até chegar na seleção de cores, onde dá para navegar pelo **RGB** e mostrar as opções.
+### 4. Aplicação de Nitro
 
-### 2.3 Cores padrão
+Se o carro não tiver nitro aplicado anteriormente, não adianta apenas comprar o nitro.
 
-Em **Primária** e **Secundária** comuns, as cores já são pré-definidas. Basta clicar para mostrar ao cliente.
-
-### 2.4 Regra geral em pintura
-
-Em qualquer opção de pintura, caso o cliente não goste da cor ou desista:
-
-- volte sempre no **ESC**.
-
-### 2.5 Remover perolado
-
-Para retirar o **Perolado**, deve ser aplicado **Perolado Preto**.
+Antes, é necessário aplicar na máquina a opção de **Nitro** ao menos uma vez.
 
 ## Resumo prático
 
-- **BACKSPACE**: voltar em itens visuais comuns sem aplicar;
-- **ENTER**: aplicar o item;
-- **ESC**: sair da pintura sem aplicar.
+Antes de instalar qualquer performance, confirme:
+
+- se será nível específico ou full;
+- se a suspensão será full ou um nível abaixo;
+- se o cliente quer incluir 2 Step;
+- se o veículo já está apto para receber nitro.

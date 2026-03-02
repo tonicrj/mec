@@ -1,35 +1,35 @@
-# 6. Plotagens e Badges
+# 7. Uniforme Padrão
 
-## Organização de badges
+## Regra geral
 
-Para aplicação de badges, siga a leitura numérica abaixo:
+O uniforme da Bennys deve ser seguido conforme o padrão abaixo.
 
-- **1º número** - Gaiola
-- **2º número** - Paralama Dianteiro
-- **3º número** - Paralama Traseiro
+> **Não usar máscara.**
 
-### Exemplo
+## Uniforme feminino
 
-Se o cliente informar a sequência **123**, a leitura deve ser:
+### Obrigatório
 
-- 1 na Gaiola;
-- 2 no Paralama Dianteiro;
-- 3 no Paralama Traseiro.
+- **Jaqueta:** 609
+- **Camiseta:** 261 (Cinto)
+- **Calça:** preta (na referência enviada, calça 231)
 
-## Dicas para plotagens
+### Opcional
 
-### 1. Confirmar posição antes de aplicar
+- **Luvas pretas:** mãos 57
 
-Antes de finalizar qualquer plotagem ou badge, confirme com o cliente a posição correta de cada elemento.
+## Uniforme masculino
 
-### 2. Trabalhar com calma
+### Obrigatório
 
-Plotagem é visual. Pequenos erros de posição podem gerar retrabalho ou insatisfação do cliente.
+- **Jaqueta:** 654
+- **Camiseta:** 218 (Cinto)
+- **Calça:** preta
 
-### 3. Validar a ordem informada
+### Opcional
 
-Quando o cliente passar números ou sequência para badges, confirme em voz ou no chat a ordem recebida antes de aplicar.
+- **Luvas pretas**
 
-### 4. Mostrar o resultado sempre que possível
+## Observação importante
 
-Sempre que der, apresente visualmente ao cliente como a plotagem ou badge ficou antes de encerrar o atendimento.
+Padronização de uniforme transmite organização, profissionalismo e identidade visual da Bennys.

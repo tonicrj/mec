@@ -1,10 +1,30 @@
-# Sumário
+# 1. Gestão e Hierarquia
 
-* [Manual Bennys](README.md)
-* [1. Gestão e Hierarquia](01-gestao-e-hierarquia.md)
-* [2. Valores de Trava e Nitro](02-valores-de-trava-e-nitro.md)
-* [3. Atendimento e Boas Práticas](03-atendimento-e-boas-praticas.md)
-* [4. Aplicações de Aparência](04-aplicacoes-de-aparencia.md)
-* [5. Aplicações de Performance](05-aplicacoes-de-performance.md)
-* [6. Plotagens e Badges](06-plotagens-e-badges.md)
-* [7. Uniforme Padrão](07-uniforme-padrao.md)
+## Direção da Bennys
+
+A estrutura principal da Bennys é composta por:
+
+- **Antonio Carrijo (Toni)** - Dono
+- **Robson Carrijo (Taker)** - Responsável logo abaixo da direção
+- **Pablito** - Gerente da Mecânica
+- **Laura** - Gerente
+- **Renatinha** - Gerente
+- **Jeffinho** - Gerente
+
+## Organização interna
+
+Toda a equipe deve respeitar a linha de gestão da mecânica, buscando manter:
+
+- organização no atendimento;
+- clareza nos valores passados ao cliente;
+- cuidado na aplicação dos itens;
+- responsabilidade com o caixa e com os custos de cada serviço.
+
+## Padrão esperado da equipe
+
+Todos os membros da Bennys devem:
+
+- atender com educação e objetividade;
+- confirmar valores antes de aplicar qualquer item;
+- evitar erros em pintura e instalação;
+- seguir o padrão de uniforme definido pela mecânica.

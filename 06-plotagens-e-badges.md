@@ -1,54 +1,35 @@
-# 5. Aplicações de Performance
+# 6. Plotagens e Badges
 
-## Regras gerais da performance
+## Organização de badges
 
-### 1. Sempre perguntar o nível desejado
+Para aplicação de badges, siga a leitura numérica abaixo:
 
-Todos os itens de performance possuem níveis, como:
+- **1º número** - Gaiola
+- **2º número** - Paralama Dianteiro
+- **3º número** - Paralama Traseiro
 
-- Nível 1;
-- Nível 2;
-- Nível 3;
-- e assim por diante.
+### Exemplo
 
-Por isso, sempre confirme com o cliente se ele quer o item no **full**.
+Se o cliente informar a sequência **123**, a leitura deve ser:
 
-Exemplos:
+- 1 na Gaiola;
+- 2 no Paralama Dianteiro;
+- 3 no Paralama Traseiro.
 
-- Motor Full?
-- Freio Full?
-- Transmissão Full?
+## Dicas para plotagens
 
-### 2. Suspensão exige confirmação extra
+### 1. Confirmar posição antes de aplicar
 
-Suspensão é um item que varia muito de gosto para gosto.
+Antes de finalizar qualquer plotagem ou badge, confirme com o cliente a posição correta de cada elemento.
 
-A suspensão full mais baixa muda conforme o carro, e em alguns veículos pode pegar em calçadas ou dificultar o uso.
+### 2. Trabalhar com calma
 
-Por isso, sempre pergunte:
+Plotagem é visual. Pequenos erros de posição podem gerar retrabalho ou insatisfação do cliente.
 
-- se o cliente quer a mais baixa possível; ou
-- se prefere um nível antes do full.
+### 3. Validar a ordem informada
 
-### 3. Nome correto do item "pow pow pow"
+Quando o cliente passar números ou sequência para badges, confirme em voz ou no chat a ordem recebida antes de aplicar.
 
-Quando o cliente pedir o item que faz os barulhos de escape, o nome correto é:
+### 4. Mostrar o resultado sempre que possível
 
-- **2 Step**
-
-Esse item fica dentro da opção **Preparação**.
-
-### 4. Aplicação de Nitro
-
-Se o carro não tiver nitro aplicado anteriormente, não adianta apenas comprar o nitro.
-
-Antes, é necessário aplicar na máquina a opção de **Nitro** ao menos uma vez.
-
-## Resumo prático
-
-Antes de instalar qualquer performance, confirme:
-
-- se será nível específico ou full;
-- se a suspensão será full ou um nível abaixo;
-- se o cliente quer incluir 2 Step;
-- se o veículo já está apto para receber nitro.
+Sempre que der, apresente visualmente ao cliente como a plotagem ou badge ficou antes de encerrar o atendimento.

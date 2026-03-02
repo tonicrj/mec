@@ -1,30 +1,24 @@
-# 1. Gestão e Hierarquia
+# 2. Valores de Trava e Nitro
 
-## Direção da Bennys
+## Nitro
 
-A estrutura principal da Bennys é composta por:
+| Quantidade | Valor unitário |
+|---|---:|
+| Padrão | R$5.000 |
+| +100 | R$4.500 |
+| +200 | R$4.000 |
+| +1.000 | R$3.000 |
 
-- **Antonio Carrijo (Toni)** - Dono
-- **Robson Carrijo (Taker)** - Responsável logo abaixo da direção
-- **Pablito** - Gerente da Mecânica
-- **Laura** - Gerente
-- **Renatinha** - Gerente
-- **Jeffinho** - Gerente
+## Trava
 
-## Organização interna
+| Quantidade | Valor unitário |
+|---|---:|
+| Padrão | R$7.000 |
+| +100 | R$6.500 |
+| +500 | R$6.000 |
 
-Toda a equipe deve respeitar a linha de gestão da mecânica, buscando manter:
+## Observações
 
-- organização no atendimento;
-- clareza nos valores passados ao cliente;
-- cuidado na aplicação dos itens;
-- responsabilidade com o caixa e com os custos de cada serviço.
-
-## Padrão esperado da equipe
-
-Todos os membros da Bennys devem:
-
-- atender com educação e objetividade;
-- confirmar valores antes de aplicar qualquer item;
-- evitar erros em pintura e instalação;
-- seguir o padrão de uniforme definido pela mecânica.
+- Sempre confirme com o cliente qual quantidade ele deseja.
+- Antes de fechar a venda, deixe claro o valor unitário aplicado ao pedido.
+- Em vendas maiores, confirme a faixa de desconto correta antes de cobrar.
