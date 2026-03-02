@@ -29,7 +29,7 @@ Bem-vindo ao manual interno da **Bennys**.
 
 Este manual foi organizado para servir como base de treinamento, consulta rápida e padronização de atendimento da equipe.
 
-{% embed url="https://josevictorv.github.io/calculadora-mecanica/" %}
+{% embed url="https://tonicrj.github.io/calculadora-mecanica/" %}
 
 ## Objetivos do manual
 

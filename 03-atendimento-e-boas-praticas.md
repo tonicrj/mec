@@ -4,7 +4,7 @@
 
 Utilize **SEMPRE** a calculadora para facilitar o trabalho.
 
-{% embed url="https://josevictorv.github.io/calculadora-mecanica/" %}
+{% embed url="https://tonicrj.github.io/calculadora-mecanica/" %}
 
 ### 1. Cada item aplicado sai da conta
 
