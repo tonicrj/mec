@@ -1,5 +1,4 @@
 ---
-description: https://josevictorv.github.io/calculadora-mecanica/
 cover: .gitbook/assets/latest.png
 coverY: 0
 coverHeight: 337
@@ -29,6 +28,8 @@ layout:
 Bem-vindo ao manual interno da **Bennys**.
 
 Este manual foi organizado para servir como base de treinamento, consulta rápida e padronização de atendimento da equipe.
+
+{% embed url="https://josevictorv.github.io/calculadora-mecanica/" %}
 
 ## Objetivos do manual
 
