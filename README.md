@@ -1,4 +1,5 @@
 ---
+description: Atualizado 02/03/2026
 cover: .gitbook/assets/latest.png
 coverY: 0
 coverHeight: 337
