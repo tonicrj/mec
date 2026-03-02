@@ -2,22 +2,9 @@
 
 ## Regras gerais da performance
 
-### 1. Sempre perguntar o nível desejado
+### 1. Sempre perguntar sobre a Blindagem no Full Tuning
 
-Todos os itens de performance possuem níveis, como:
-
-- Nível 1;
-- Nível 2;
-- Nível 3;
-- e assim por diante.
-
-Por isso, sempre confirme com o cliente se ele quer o item no **full**.
-
-Exemplos:
-
-- Motor Full?
-- Freio Full?
-- Transmissão Full?
+Por ser o item mais caro, sempre pergunte sobre a blindagem no Full Tuning e se o cliente pedir faça o orçamento antes de aplicar.
 
 ### 2. Suspensão exige confirmação extra
 
@@ -27,14 +14,14 @@ A suspensão full mais baixa muda conforme o carro, e em alguns veículos pode p
 
 Por isso, sempre pergunte:
 
-- se o cliente quer a mais baixa possível; ou
-- se prefere um nível antes do full.
+* se o cliente quer a mais baixa possível; ou
+* se prefere um nível antes do full.
 
 ### 3. Nome correto do item "pow pow pow"
 
 Quando o cliente pedir o item que faz os barulhos de escape, o nome correto é:
 
-- **2 Step**
+* **2 Step**
 
 Esse item fica dentro da opção **Preparação**.
 
@@ -48,7 +35,7 @@ Antes, é necessário aplicar na máquina a opção de **Nitro** ao menos uma ve
 
 Antes de instalar qualquer performance, confirme:
 
-- se será nível específico ou full;
-- se a suspensão será full ou um nível abaixo;
-- se o cliente quer incluir 2 Step;
-- se o veículo já está apto para receber nitro.
+* se terá Suspensão e Blindagem no Full Tuning.
+* se a suspensão será full ou um nível abaixo;
+* se o cliente quer incluir 2 Step;
+* se o veículo já estiver apto para receber nitro, aplicar diretamente o cilindro.

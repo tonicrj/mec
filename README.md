@@ -1,26 +1,41 @@
+---
+description: https://josevictorv.github.io/calculadora-mecanica/
+cover: .gitbook/assets/latest.png
+coverY: 0
+coverHeight: 337
+layout:
+  width: default
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
+
 # Manual Bennys
 
-Bem-vindo ao manual interno da **Bennys**, a mecânica gerenciada por **Antonio Carrijo (Toni)**.
+Bem-vindo ao manual interno da **Bennys**.
 
 Este manual foi organizado para servir como base de treinamento, consulta rápida e padronização de atendimento da equipe.
 
 ## Objetivos do manual
 
-- Padronizar o atendimento ao cliente.
-- Organizar os valores de trava e nitro.
-- Explicar os cuidados nas aplicações de aparência e performance.
-- Registrar orientações sobre plotagens e badges.
-- Definir o padrão de uniforme da equipe.
-
-## Estrutura da gestão
-
-A Bennys segue a seguinte linha de gestão:
-
-1. **Antonio Carrijo (Toni)** - Dono
-2. **Robson Carrijo (Taker)** - Responsável logo abaixo da direção
-3. **Pablito** - Gerente da Mecânica
-4. **Laura** - Gerente
-5. **Renatinha** - Gerente
-6. **Jeffinho** - Gerente
+* Padronizar o atendimento ao cliente.
+* Organizar os valores de trava e nitro.
+* Explicar os cuidados nas aplicações de aparência e performance.
+* Registrar orientações sobre plotagens e badges.
+* Definir o padrão de uniforme da equipe.
 
 Use este manual como referência oficial para o funcionamento da mecânica.
