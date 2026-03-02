@@ -1,5 +1,4 @@
 ---
-description: Atualizado 02/03/2026
 cover: .gitbook/assets/latest.png
 coverY: 0
 coverHeight: 337
@@ -41,3 +40,6 @@ Este manual foi organizado para servir como base de treinamento, consulta rápid
 * Definir o padrão de uniforme da equipe.
 
 Use este manual como referência oficial para o funcionamento da mecânica.
+
+<sub>_Atualizado 02/03/2026_</sub>
+
