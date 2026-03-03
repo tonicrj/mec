@@ -1,4 +1,4 @@
-# 7. Uniforme Padrão
+# 8. Uniforme Padrão
 
 ## Regra geral
 
@@ -19,7 +19,7 @@ O uniforme da Bennys deve ser seguido conforme o padrão abaixo.
 *   **Luvas pretas:** mãos 57\
     <br>
 
-    <figure><img src=".gitbook/assets/image.png" alt="" width="261"><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (9).png" alt="" width="261"><figcaption></figcaption></figure>
 
 ## Uniforme masculino
 
@@ -35,7 +35,7 @@ O uniforme da Bennys deve ser seguido conforme o padrão abaixo.
 
 
 
-<figure><img src=".gitbook/assets/image (1).png" alt="" width="226"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt="" width="226"><figcaption></figcaption></figure>
 
 ## Observação importante
 

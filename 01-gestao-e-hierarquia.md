@@ -10,6 +10,7 @@ A estrutura principal da Bennys é composta por:
 * **Laura** - Gerente
 * **Renatinha** - Gerente
 * **Jeffinho** - Gerente
+* **Arlindo** - Gerente de Metas
 
 ## Organização interna
 
