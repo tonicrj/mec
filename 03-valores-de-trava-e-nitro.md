@@ -1,8 +1,8 @@
-# 2. Trava e Nitro
+# 3. Trava e Nitro
 
 ## Farm de Nitro
 
-O Farm de Nitro deve ser para a Meta Semanal ou para uma quantia de Uso Próprio.
+O Farm de Nitro deve ser para a Meta Semanal ou para uma quantia de uso próprio.
 
 **PROIBIDO** estocar Nitro em casa. Mantenha apenas o nitro da sua mochila que servirá para uso e evite quantidades exorbitantes.
 

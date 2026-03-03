@@ -8,9 +8,11 @@
 
 A mecânica tem 4 baias internas e uma externa, além da baia de atendimentos para helicóptero, podendo cada uma ser utilizada por um veículo.
 
-<figure><img src=".gitbook/assets/image (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt="" width="563"><figcaption><p>Baias Internas</p></figcaption></figure>
 
+<figure><img src=".gitbook/assets/image.png" alt="" width="563"><figcaption><p>Baia Externa</p></figcaption></figure>
 
+<figure><img src=".gitbook/assets/image (1).png" alt="" width="563"><figcaption><p>Heliponto para Tunning</p></figcaption></figure>
 
 ## Abrir/Fechar Mecânica
 
