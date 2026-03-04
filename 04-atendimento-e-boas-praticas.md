@@ -1,4 +1,4 @@
-# 3. Atendimento e Boas Práticas
+# 4. Atendimento e Boas Práticas
 
 ## Regras gerais
 
@@ -6,13 +6,16 @@ Utilize **SEMPRE** a calculadora para facilitar o trabalho.
 
 {% embed url="https://tonicrj.github.io/calculadora-mecanica/" %}
 
+**Evite** falar **alto** para não atrapalhar os colegas nas outras baias.
+
 ### Ordem de Atendimento em Fila
 
-Os mecânicos que estiverem em serviço deverão ter uma ordem de atendimento baseado em fila, para que ninguém passe na frente do outro.
+Os mecânicos em serviço devem seguir a fila de atendimento, sem passar na frente uns dos outros.
 
-Após um atendimento, volta para o fim da fila até chegar sua vez novamente.&#x20;
+* Atendeu um cliente? Vai para o fim da fila e espera sua vez novamente.
+* Não quer atender aquele cliente por qualquer motivo? Também vai para o fim da fila, para não atrapalhar a ordem.
 
-Caso o mecânico nao queira atender algum cliente, seja por qual motivo, ele vai para o fim da fila para nao atrapalhar a ordem .
+Sempre converse com os mecânicos em serviço no momento para estabelecerem a fila e evitar estresses entre os funcionários nos atendimentos.
 
 ### 1. Cada item aplicado sai da conta
 
