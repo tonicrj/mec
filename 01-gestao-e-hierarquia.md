@@ -26,6 +26,6 @@ Toda a equipe deve respeitar a linha de gestão da mecânica, buscando manter:
 Todos os membros da Bennys devem:
 
 * atender com educação e respeito, independente do cliente;
-* confirmar valores antes de aplicar qualquer item;
+* falar num tom que não atrapalhe os colegas;
 * evitar erros em pintura e instalação;
 * seguir o padrão de uniforme definido pela mecânica.
