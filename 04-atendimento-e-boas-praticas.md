@@ -8,6 +8,8 @@ Utilize **SEMPRE** a calculadora para facilitar o trabalho.
 
 **Evite** falar **alto** para não atrapalhar os colegas nas outras baias.
 
+**Proibido** remover Tuning/Blindagem de veículos, permitido apenas opcionais (Suspensão, 2Step) seguindo o pedido do cliente.
+
 ### Ordem de Atendimento em Fila
 
 Os mecânicos em serviço devem seguir a fila de atendimento, sem passar na frente uns dos outros.
