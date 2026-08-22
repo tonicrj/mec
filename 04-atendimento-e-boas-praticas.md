@@ -106,3 +106,4 @@ Durante o atendimento:
 * confirme sempre antes de apertar ENTER em qualquer aplicação;
 * evite pressa em pintura e personalização;
 * mantenha o cliente informado durante todo o processo.
+* **NÃO** nos responsabilizamos por carros clonados, caso o cliente tenha interesse terá que pagar novamente.

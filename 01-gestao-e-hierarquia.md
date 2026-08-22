@@ -8,8 +8,9 @@ A estrutura principal da Bennys é composta por:
 * **Robson Carrijo (Taker)** - Sócio-Proprietário
 * **Pablito** - Gerente da Mecânica
 * **Laura** - Gerente
-* **Renatinha** - Gerente
-* **Jeffinho** - Gerente
+* **BG** - Gerente
+* **Luiz** - Gerente
+* **Drake (Japa)** - Gerente
 * **Arlindo** - Gerente de Metas
 
 ## Organização interna
